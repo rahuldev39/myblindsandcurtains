@@ -1910,9 +1910,9 @@ select:focus {
 =============================================
 ***/
 .footer-bottom-area {
-    background: #141414 none repeat scroll 0 0;
-    padding-bottom: 23px;
-    padding-top: 18px;
+  background: #131313 none repeat scroll 0 0;
+  padding-bottom: 23px;
+  padding-top: 18px;
 }
 .footer-bottom-area .copyright-text p {
     color: #c1c1c1;

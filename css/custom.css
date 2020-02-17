@@ -21,3 +21,8 @@
     top: -9px;
     box-shadow: 0px 7px 1px -3px #2464ad;
 }
+.footer-area{
+    background-image: url(../images/footer-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
